@@ -25,7 +25,7 @@ Approach:
 ### Build and train custom LSTM RNNs
 
 In the Jupyter Notebooks, we created the same custom LSTM RNN architecture. 
-![Model Architecture](Resources/btc.PNG)
+![Model Architecture](Resources/btc.png)
 
 * In one notebook, we fit the data using the FNG values. In the second notebook, only closing prices are used.
 * In order to compare the models, we will use the same parameters and training steps for each model. 
@@ -44,12 +44,12 @@ Finally, using the testing data to evaluate each model and compare the performan
 
 <table> <tr><td>
 
-![Prediction using 2day window close prices](Resources/close_2day.PNG) 
+![Prediction using 2day window close prices](Resources/close_2day.png) 
 
 </td><td>
 
 
-![Prediction using 2day FNG window](Resources/FNG_2.PNG) 
+![Prediction using 2day FNG window](Resources/FNG_2.png) 
 
 </td></tr> </table>
 
@@ -61,20 +61,20 @@ Price Prediction using closing prices of different time windows
 
 <table> <tr><td>
 
-![Prediction using 2day window close prices](Resources/close_2day.PNG) 
+![Prediction using 2day window close prices](Resources/close_2day.png) 
 
 </td><td>
 
-![Prediction using 5day window close prices](Resources/close_5day.PNG) 
+![Prediction using 5day window close prices](Resources/close_5day.png) 
 
 </td></tr><tr><td>
 
 
-![Prediction using 10day window close prices](Resources/close_10day.PNG)
+![Prediction using 10day window close prices](Resources/close_10day.png)
 
 </td><td>
 
-![Prediction using 20day window close prices](Resources/close_20day.PNG)
+![Prediction using 20day window close prices](Resources/close_20day.png)
 
 </td></tr> </table>
 
@@ -82,19 +82,19 @@ Price Prediction using closing prices of different time windows
 * Price Prediction using FNG index over different time windows 
 <table> <tr><td>
 
-![Prediction using 10day FNG window](Resources/FNG_20.PNG) 
+![Prediction using 10day FNG window](Resources/FNG_20.png) 
 
 </td><td>
 
-![Prediction using 20day FNG window](Resources/FNG_10day.PNG) 
+![Prediction using 20day FNG window](Resources/FNG_10day.png) 
 
 </td><td></tr><tr><td>
 
-![Prediction using 5day FNG window](Resources/FNG_5.PNG)
+![Prediction using 5day FNG window](Resources/FNG_5.png)
 
 </td><td>
 
-![Prediction using 2day FNG window](Resources/FNG_2.PNG) 
+![Prediction using 2day FNG window](Resources/FNG_2.png) 
 
 </td></tr> </table>
 - - -
